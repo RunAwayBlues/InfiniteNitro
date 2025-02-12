@@ -1,5 +1,5 @@
 # Infinite Nitrous mod
 
-Original Mod here: [MySummerCarTweaks](https://github.com/Akatsuki2555/MySummerCarTweaks).
+Original Mod here: [Infinite Nitro](https://github.com/mldchan/InfiniteNitro).
 
 I've made some minor changes to improve performance.
