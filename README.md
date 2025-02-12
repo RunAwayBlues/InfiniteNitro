@@ -1,3 +1,5 @@
 # Infinite Nitrous mod
 
-This mod is now deprecated and is part of [MySummerCarTweaks](https://github.com/Akatsuki2555/MySummerCarTweaks).
+Original Mod here: [MySummerCarTweaks](https://github.com/Akatsuki2555/MySummerCarTweaks).
+
+I've made some minor changes to improve performance.
